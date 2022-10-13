@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1513332533 source:d:\temas universidad\4to año\1aaed\campusaaed\practicas\6.- colas\ejercicio 3 - bicola\main.cpp
+	<iostream>
+	"Bicola.h"
+
+1513333816 d:\temas universidad\4to año\1aaed\campusaaed\practicas\6.- colas\ejercicio 3 - bicola\bicola.h
+	<cassert>
+
